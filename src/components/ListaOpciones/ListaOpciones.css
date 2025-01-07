@@ -1,0 +1,19 @@
+.listaOpciones label{
+    display: block;
+    font-size:  18px;
+    font-weight: 600;
+    font-family: "Montserrat", serif;
+    margin-bottom: 8px;
+}
+
+.listaOpciones select {
+    width: 100%;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.09);
+    border: none;
+    padding: 30px 20px;
+    outline-color:#6278f7 ;
+    font-size: 16px;    
+    color: #7c7c7c;
+    margin-bottom: 30px;
+}
